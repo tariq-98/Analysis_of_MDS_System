@@ -1,6 +1,6 @@
 # Mass–damper–spring system identification
 
-[![tests](https://github.com/tariq-98/Analysis_of_MDS_System/actions/workflows/tests.yml/badge.svg)](https://github.com/tariq-98/Analysis_of_MDS_System/actions/workflows/tests.yml)
+[![tests](https://github.com/tariq-98/vibration-system-identification/actions/workflows/tests.yml/badge.svg)](https://github.com/tariq-98/vibration-system-identification/actions/workflows/tests.yml)
 
 Identifies the physical parameters of a single-degree-of-freedom vibration rig (spring stiffness, natural frequency, effective mass and damping) from four lab experiments. It runs in MATLAB and GNU Octave, and is tested in CI against the original coursework results.
 
